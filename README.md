@@ -1,7 +1,7 @@
 # MCMI: Multi-Cycle Image Translation with Mutual Information Constraints 
 
 Pytorch implementation of our MCMI method. 
-
+![Approach overview](./overview.png)
 ## Usage
 
 

@@ -4,7 +4,7 @@
 [[Project Page]](https://samxuxiang.github.io/mcmi.html)
 
 Pytorch implementation of our MCMI image-to-image translation method. Our proposed mutual information constraints
-improve cross-domain mappings by optimizing out translation functions that fail to satisfy the Markov property during image translations.
+produce higher quality images and learn more semantically-relevant mappings.
 
 ## Usage
 

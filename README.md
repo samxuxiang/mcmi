@@ -1,6 +1,7 @@
 <img src='overview.png' width="800px">
+
 # MCMI: Multi-Cycle Image Translation with Mutual Information Constraints 
-[[Project Page]](https://samxuxiang.github.io/mcmi.html)[[Paper]]()
+[[Project Page]](https://samxuxiang.github.io/mcmi.html)
 Pytorch implementation of our MCMI method. 
 
 ## Usage

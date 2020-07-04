@@ -1,5 +1,6 @@
-# MCMI: Multi-Cycle Image Translation with Mutual Information Constraints 
 ![Approach overview](./overview.png)
+# MCMI: Multi-Cycle Image Translation with Mutual Information Constraints 
+[[Project Page]](http://vllab.ucmerced.edu/hylee/DRIT_pp/)[[Paper]](https://arxiv.org/abs/1905.01270)[[Conference Paper]](https://arxiv.org/abs/1808.00948)
 Pytorch implementation of our MCMI method. 
 
 ## Usage

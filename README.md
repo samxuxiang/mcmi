@@ -1,6 +1,6 @@
 # MCMI: Multi-Cycle Image Translation with Mutual Information Constraints 
 
-This repository is the official implementation of MCMI training. 
+Pytorch implementation of our MCMI method. 
 
 ## Usage
 

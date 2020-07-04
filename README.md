@@ -3,7 +3,8 @@
 # MCMI: Multi-Cycle Image Translation with Mutual Information Constraints 
 [[Project Page]](https://samxuxiang.github.io/mcmi.html)
 
-Pytorch implementation of our MCMI method. 
+Pytorch implementation of our MCMI image-to-image translation method. Our proposed mutual information constraints
+improve cross-domain mappings by optimizing out translation functions that fail to satisfy the Markov property during image translations.
 
 ## Usage
 

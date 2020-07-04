@@ -29,7 +29,7 @@ sh scripts/train_cyclegan.sh
 ```
 
 This trains a MCMI-CycleGAN model on Cat2Dog dataset and saves the model every 50 epochs. You can train it on other datasets by modifying the dataroot in train_cyclegan.sh
-[part of the training code is modified from [official implementation of CycleGAN](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)]
+- part of the training code is modified from [official implementation of CycleGAN](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)
 
 
 ## Evaluation

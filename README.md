@@ -46,7 +46,7 @@ The evaluation code will look for model trained at epoch 200 under /evaluation_c
 
 ## Results
 
-Our pre-trained model achieves the following performance on cat2dog dataset 
+Our pre-trained model achieves the following performance on cat2dog dataset. You can download it from here: https://drive.google.com/file/d/1AXBwxl8MaWEiSl3etNX5f_yMYIKdQiTK/view?usp=sharing 
 
 ### 
 
